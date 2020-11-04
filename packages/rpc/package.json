@@ -1,0 +1,29 @@
+{
+  "name": "rpc",
+  "version": "0.0.1",
+  "description": "> TODO: description",
+  "author": "xin_tian <xin_tian@hunliji.com>",
+  "homepage": "https://github.com/OwlAford/hive#readme",
+  "license": "ISC",
+  "main": "lib/rpc.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "http://pripub.hljnbw.cn:8019/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OwlAford/hive.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/OwlAford/hive/issues"
+  }
+}
