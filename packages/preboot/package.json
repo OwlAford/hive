@@ -1,6 +1,6 @@
 {
   "name": "preboot",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "> TODO: description",
   "author": "xin_tian <xin_tian@hunliji.com>",
   "homepage": "https://github.com/OwlAford/hive#readme",
@@ -28,6 +28,6 @@
   },
   "gitHead": "069960ad8e70d8129e135d35de7df3eafe94273e",
   "dependencies": {
-    "rpc": "^0.0.1"
+    "rpc": "^0.0.2"
   }
 }
