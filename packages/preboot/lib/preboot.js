@@ -5,5 +5,5 @@ module.exports = preboot;
 
 function preboot() {
     rpc()
-    console.log('Botting...')
+    console.log('Booting...')
 }
